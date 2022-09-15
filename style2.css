@@ -1,0 +1,32 @@
+.titulo {
+ padding-right: 100px;
+ background-color: grey;
+ position: sticky;
+ display: flex;
+ height: 10vh;
+ justify-content: center;
+ align-items: center;
+ font-family: 'Comfortaa', cursive;
+}
+
+.cenoura {
+   padding-right: 100px;
+   position: sticky;
+   display: flex;
+  height: 10vh;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Comfortaa', cursive;
+}
+
+.ingredientes{
+  margin-top: 10px;
+  border-style: solid;
+  padding: 15px;
+}
+
+.preparo {
+ margin-top: 10px;
+ border-style: solid;
+ padding: 15px;
+}
